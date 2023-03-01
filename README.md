@@ -4,8 +4,7 @@ and my future profession is a scientist👩🏼‍🔬
 - 👀 I'm interested in science and VR/AR, 
 I have my own lab in Sirius Park on Immunology and Biomedicine
 - 🌱 I am currently learning and proficient in programming languages such as:
-- Python -  junior lvl
-- C++ - beginner lvl
+- Python -  nedojunior-nedobeginner lvl
 - C# - beginner lvl
 
 <!---
