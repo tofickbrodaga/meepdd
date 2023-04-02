@@ -6,11 +6,11 @@
   - AR/VR dev
   - Tg-bots
 
-👩‍🔬Love Science
+👩‍🔬 Love Science
 
-💅Studying at Sirius College in Sochi, Russia (Sirius)
+💅 Studying at Sirius College in Sochi, Russia (Sirius)
 
-🧠Interning in the Laboratory of Immunology and Biomedicine and in the Laboratory of Cognitive Research
+🧠 Interning in the Laboratory of Immunology and Biomedicine and in the Laboratory of Cognitive Research
 
 ![gigachad](https://user-images.githubusercontent.com/101170461/228781250-a80c081e-ac8b-4bfa-a7bf-6c9b71a90a97.gif)
 
