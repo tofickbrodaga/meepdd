@@ -8,6 +8,8 @@
 
 👩‍🔬 Love Science
 
+🚀Codewars: https://www.codewars.com/users/meepdd
+
 💅 Studying at Sirius College in Sochi, Russia (Sirius)
 
 🧠 Interning in the Laboratory of Immunology and Biomedicine and in the Laboratory of Cognitive Research
