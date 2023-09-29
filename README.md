@@ -3,9 +3,9 @@
 # Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-I'm a scientist in IT and Biomedicine.
 
-- 💬 Ask me about anything [here](https://t.me/tofick_brodaga)
+
+### - 💬 Ask me about anything [here](https://t.me/tofick_brodaga)
 
 
  |[![Github stats](https://github-readme-stats.vercel.app/api?username=tofickbrodaga&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width=150 height=150 />|
