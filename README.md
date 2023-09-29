@@ -5,20 +5,6 @@
 
 I'm a scientist in IT and Biomedicine.
 
-**About me**
-
-- 💼 Web-dev(HTML/CSS/JS)
-
-- 👾 AR/VR dev
-  
-- 🎯 Develop telegram-bot's
-  
-- 👩‍🔬 Love Science
-
-- 💅 Studying at Sirius College in Sochi, Russia (Sirius)
-
-- 🧠 Interning in the Laboratory of Immunology and Biomedicine and in the Laboratory of Cognitive Research
-
 - 💬 Ask me about anything [here](https://t.me/tofick_brodaga)
 
 
