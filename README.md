@@ -6,6 +6,7 @@
 
 
 ### - 💬 Ask me about anything [here](https://t.me/tofick_brodaga)
+### - Some AI: [Kaggle](https://www.kaggle.com/tofickbrodaga)
 
 ### - ["Цифровой прорыв" 2024 / Сочи](https://github.com/larkes-cyber/HackathonPriceApp)
 
